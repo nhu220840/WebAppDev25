@@ -1,0 +1,27 @@
+{
+  "name": "webappdev25",
+  "version": "1.0.0",
+  "description": "Do Nguyen Gia Nhu - 22BA14238",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhu220840/WebAppDev25.git"
+  },
+  "keywords": ["html", "css", "javascript"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhu220840/WebAppDev25/issues"
+  },
+  "homepage": "https://github.com/nhu220840/WebAppDev25#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
